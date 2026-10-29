@@ -1,0 +1,4 @@
+# GitHub Linguist: identify the scripts used by this Windows diagnostic toolkit.
+*.ps1 linguist-language=PowerShell
+*.bat linguist-language=Batchfile
+*.txt linguist-documentation=true
